@@ -24,3 +24,33 @@ Education
 <img src="../images/UESTC.png" alt="Image cannot load" width="135" height="135" />_Sept. 2022 - : University of Electronic Science and Technology of China, Chengdu_
 
 Undergraduate Student
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .container {
+      display: flex;
+      align-items: flex-start;
+    }
+    .text-container {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <img src="../images/UESTC.png" alt="Image cannot load" width="135" height="135" />
+    <div class="text-container">
+      <div>Sept. 2022 - : University of Electronic Science and Technology of China, Chengdu</div>
+      <div>Undergraduate Student</div>
+    </div>
+  </div>
+
+</body>
+</html>
