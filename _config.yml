@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yupu Yao"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yupu Yao"
 description              : &description "personal description"
