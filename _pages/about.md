@@ -49,10 +49,11 @@ Education
 <body>
   
   <div class="container">
-    <img src="../images/UESTC.png" alt="Image cannot load" width="100" height="100" style="margin-right: 20px;" />
+    <img src="../images/UESTC.png" alt="Image cannot load" width="150" height="150" style="margin-right: 20px;" />
     <div class="text-container">
-      <div>Sept. 2022 - : University of Electronic Science and Technology of China, Chengdu</div>
+      <div>Sept. 2022 - : UESTC, Chengdu</div>
       <div class="space-between">Undergraduate Student</div>
+      <div class="space-between">*：University of Electronic Science and Technology of China</div>
     </div>
   </div>
 
