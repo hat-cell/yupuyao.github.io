@@ -1,16 +1,11 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Papers in reverse chronological order"
+permalink: /papers/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**&middot;** [**Y Yao**](https://yupuyao.github.io), S Deng, Z Cao, [H Zhang](https://harryzhangog.github.io/), [LJ Deng](https://liangjiandeng.github.io/).  
+**APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency.**  
+In _preprint_, 2023.  
+[[PDF]](https://arxiv.org/abs/2308.12605)
