@@ -175,13 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  Research:
+  research:
     output: true
     permalink: /:collection/:path/
-  Papers:
+  papers:
     output: true
     permalink: /:collection/:path/
-  Contact:
+  contact:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _Research
+  # _research
   - scope:
       path: ""
-      type: Research
+      type: research
     values:
       layout: single
       author_profile: true
@@ -221,16 +221,16 @@ defaults:
   # _papers
   - scope:
       path: ""
-      type: Papers
+      type: papers
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _Contact
+  # _contact
   - scope:
       path: ""
-      type: Contact
+      type: contact
     values:
       layout: single
       author_profile: true
