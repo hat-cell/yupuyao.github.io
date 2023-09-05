@@ -41,14 +41,27 @@ Education
       font-size: 24px;
       font-family: Georgia', serif;
     }
-     .space-between {
+  </style>
+</head>
+<body>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .space-between {
       margin-top: 20px;
     }
   </style>
 </head>
 <body>
 
-  
+  <div>Sept. 2022 - : University of Electronic Science and Technology of China, Chengdu</div>
+  <div class="space-between">Undergraduate Student</div>
+
+</body>
+</html>
+
   <div class="container">
     <img src="../images/UESTC.png" alt="Image cannot load" width="150" height="150" style="margin-right: 20px;" />
     <div class="text-container">
