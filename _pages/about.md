@@ -21,7 +21,7 @@ In _preprint_, 2023.
 
 Education
 ======
-![Image cannot load](../images/UESTC.png)
+![Image cannot load](../images/profile.png)
 _Sept. 2022 - : University of Electronic Science and Technology of China (UESTC), Chengdu, China_
 
 Undergraduate Student
