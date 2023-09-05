@@ -1,6 +1,8 @@
 ---
+layout: archive
 title: "Research interets"
-collection: Research
+permalink: /research/
+author_profile: true
 ---
 
 Machine Learning
