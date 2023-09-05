@@ -38,7 +38,7 @@ Education
       margin-right: 20px;
     }
     .custom-font {
-      font-size: 24px;
+      font-size: 21px;
       font-family: Georgia', serif;
     }
   </style>
