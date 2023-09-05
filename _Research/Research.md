@@ -1,6 +1,6 @@
 ---
 title: "Research interets"
-collection: research
+collection: Research
 ---
 
 Machine Learning
