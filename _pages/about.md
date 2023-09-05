@@ -39,7 +39,7 @@ Education
     }
     .custom-font {
       font-size: 24px;
-      font-family: 'Courier New', Courier, monospace;
+      font-family: Georgia', serif;
     }
      .space-between {
       margin-top: 20px;
