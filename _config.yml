@@ -175,10 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  research:
+  Research:
     output: true
     permalink: /:collection/:path/
-  papers:
+  Papers:
     output: true
     permalink: /:collection/:path/
   Contact:
@@ -212,7 +212,7 @@ defaults:
   # _Research
   - scope:
       path: ""
-      type: research
+      type: Research
     values:
       layout: single
       author_profile: true
@@ -221,7 +221,7 @@ defaults:
   # _papers
   - scope:
       path: ""
-      type: papers
+      type: Papers
     values:
       layout: single
       author_profile: true
