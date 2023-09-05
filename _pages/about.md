@@ -14,7 +14,7 @@ My research interest is machine learning.
 
 Publications
 ======
-<span style="margin-right: 20px;">●</span>  [**Y Yao**](https://yupuyao.github.io), S Deng, Z Cao, [H Zhang](https://harryzhangog.github.io/), [LJ Deng](https://liangjiandeng.github.io/).  
+<span style="margin-right: 15px;">●</span>  [**Y Yao**](https://yupuyao.github.io), S Deng, Z Cao, [H Zhang](https://harryzhangog.github.io/), [LJ Deng](https://liangjiandeng.github.io/).  
 **APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency.**  
 In _preprint_, 2023.  
 [[PDF]](https://arxiv.org/abs/2308.12605)
@@ -38,14 +38,21 @@ Education
 </head>
 <body>
 
+<html>
+<head>
+  <style>
+    .space-between {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  
   <div class="container">
-    <img src="../images/UESTC.png" alt="Image cannot load" width="100" height="100" />
+    <img src="../images/UESTC.png" alt="Image cannot load" width="100" height="100" style="margin-right: 20px;" />
     <div class="text-container">
       <div>Sept. 2022 - : University of Electronic Science and Technology of China, Chengdu</div>
-      <div> </div>
-      <div> </div>
-      <div> </div>
-      <div>Undergraduate Student</div>
+      <div class="space-between">Undergraduate Student</div>
     </div>
   </div>
 
