@@ -55,7 +55,6 @@ Education
 </head>
 <body>
 
-</html>
 
   <div class="container">
     <img src="../images/UESTC.png" alt="Image cannot load" width="150" height="150" style="margin-right: 20px;" />
