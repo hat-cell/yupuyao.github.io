@@ -45,7 +45,6 @@ Education
 </head>
 <body>
 
-<!DOCTYPE html>
 <html>
 <head>
   <style>
@@ -56,10 +55,6 @@ Education
 </head>
 <body>
 
-  <div>Sept. 2022 - : University of Electronic Science and Technology of China, Chengdu</div>
-  <div class="space-between">Undergraduate Student</div>
-
-</body>
 </html>
 
   <div class="container">
