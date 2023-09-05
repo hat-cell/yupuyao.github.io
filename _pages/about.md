@@ -14,7 +14,7 @@ My research interest is machine learning.
 
 Publications
 ======
-<span style="margin-right: 15px;">●</span>  [**Y Yao**](https://yupuyao.github.io), S Deng, Z Cao, [H Zhang](https://harryzhangog.github.io/), [LJ Deng](https://liangjiandeng.github.io/).  
+<span style="margin-right: 13px;">●</span>  [**Y Yao**](https://yupuyao.github.io), S Deng, Z Cao, [H Zhang](https://harryzhangog.github.io/), [LJ Deng](https://liangjiandeng.github.io/).  
 **APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency.**  
 In _preprint_, 2023.  
 [[PDF]](https://arxiv.org/abs/2308.12605)
