@@ -41,19 +41,13 @@ Education
       font-size: 24px;
       font-family: 'Courier New', Courier, monospace;
     }
-  </style>
-</head>
-<body>
-
-<html>
-<head>
-  <style>
-    .space-between {
+     .space-between {
       margin-top: 20px;
     }
   </style>
 </head>
 <body>
+
   
   <div class="container">
     <img src="../images/UESTC.png" alt="Image cannot load" width="150" height="150" style="margin-right: 20px;" />
