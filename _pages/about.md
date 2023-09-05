@@ -35,7 +35,7 @@ Education
       justify-content: space-between;
     }
     img {
-      margin-right: 20px;
+      margin-right: 22px;
     }
     .custom-font {
       font-size: 21px;
