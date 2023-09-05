@@ -52,7 +52,7 @@ Education
     <img src="../images/UESTC.png" alt="Image cannot load" width="150" height="150" style="margin-right: 20px;" />
     <div class="text-container">
       <div>Sept. 2022 - : UESTC*, Chengdu</div>
-      <div class="space-between">Undergraduate Student</div>
+      <div class="space-between">Undergraduate student</div>
       <div class="space-between">*：University of Electronic Science and Technology of China</div>
     </div>
   </div>
