@@ -21,5 +21,5 @@ In _preprint_, 2023.
 
 Education
 ======
-<img src="../images/profile.png" alt="Image cannot load" width="135" height="135" />_Sept. 2022 - : University of Electronic Science and Technology of China (UESTC), Chengdu, China_
+<img src="../images/UESTC.png" alt="Image cannot load" width="135" height="135" />_Sept. 2022 - : University of Electronic Science and Technology of China (UESTC), Chengdu, China_
 Undergraduate Student
