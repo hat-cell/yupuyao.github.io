@@ -34,6 +34,13 @@ Education
       flex-direction: column;
       justify-content: space-between;
     }
+    img {
+      margin-right: 20px;
+    }
+    .custom-font {
+      font-size: 24px;
+      font-family: 'Courier New', Courier, monospace;
+    }
   </style>
 </head>
 <body>
@@ -51,7 +58,7 @@ Education
   <div class="container">
     <img src="../images/UESTC.png" alt="Image cannot load" width="150" height="150" style="margin-right: 20px;" />
     <div class="text-container">
-      <div>Sept. 2022 - : UESTC*, Chengdu</div>
+      <div class="custom-font">Sept. 2022 - : UESTC*, Chengdu</div>
       <div class="space-between">Undergraduate student</div>
       <div class="space-between">*：University of Electronic Science and Technology of China</div>
     </div>
