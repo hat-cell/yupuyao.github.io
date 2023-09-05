@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yupu Yao"
 title_separator          : "-"
 name                     : &name "Yupu Yao"
-description              : &description "Machine Learning Rookie"
+description              : &description "personal description"
 url                      : https://yupuyao.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hat-cell/yupuyao.github.io"
