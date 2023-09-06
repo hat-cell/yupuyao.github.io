@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yupu Yao, a second year undergraduate student in University of Electronic Science and Technology of China (UESTC). Thank you for visiting my homepage.
+Hi, I am Yupu Yao, a second year undergraduate student in University of Electronic Science and Technology of China (UESTC). Thank you for visiting my homepage.
 
 My research interest is machine learning.
 
