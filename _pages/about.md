@@ -39,7 +39,7 @@ Education
     }
     .custom-font {
       font-size: 21px;
-      font-family: Georgia', serif;
+      font-family: 'Georgia', serif;
     }
   </style>
 </head>
@@ -56,7 +56,7 @@ Education
 <body>
 
 
-  <div class="container">
+  <div class="container" style="margin-top: 40px;">
     <img src="../images/UESTC.png" alt="Image cannot load" width="150" height="150" style="margin-right: 20px;" />
     <div class="text-container">
       <div class="custom-font">Sept. 2022 - : UESTC*, Chengdu</div>
