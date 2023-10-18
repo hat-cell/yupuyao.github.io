@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br>**I am looking for a PhD position in 2026, and I am also open to seeking an online research assistant position at any time.** 
+<br>**I am looking for a PhD position in 2026, and also open to seeking an online research assistant position at any time.** 
 
 Hi, I am Yupu Yao, a second year undergraduate student in University of Electronic Science and Technology of China (UESTC). Thank you for visiting my homepage.
 
